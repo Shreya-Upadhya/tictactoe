@@ -1,4 +1,4 @@
-**Tic Tac Toe Game**
+# **Tic Tac Toe Game**
 
 Welcome to the Tic Tac Toe Game built with React.js and JavaScript! This is a simple and interactive version of the classic Tic Tac Toe game where two players can take turns marking "X" or "O" on a 3x3 grid. The first player to align three marks in a row (horizontally, vertically, or diagonally) wins!
 
@@ -6,20 +6,18 @@ This project was developed using React.js for rendering the components and JavaS
 
 **Features**
 
-***Player vs Player Mode***: Two players can take turns to play the game.
-***Game Board***: A 3x3 grid where players place their marks.
-State Management with JavaScript: The game uses JavaScript to manage the state of players, moves, and check for win conditions.
-***Win Detection***: The game detects when a player wins by aligning three marks in a row, column, or diagonal.
-***Restart Button***: A button to reset the game and start a new round.
+1. ***Player vs Player Mode***: Two players can take turns to play the game.
+2.  ***Game Board***: A 3x3 grid where players place their marks.
+3.  ***State Management with JavaScript***: The game uses JavaScript to manage the state of players, moves, and check for win conditions.
+4.  ***Win Detection***: The game detects when a player wins by aligning three marks in a row, column, or diagonal.
+5.  ***Restart Button***: A button to reset the game and start a new round.
 Responsive Design: The game works well on both desktop and mobile devices.
 
 **Technologies Used**
 
-***React.js***: For building the dynamic user interface and rendering components.
-
-***JavaScript***: For managing the state of players, moves, and game logic such as win detection and resetting the game.
-
-***CSS***: For styling the game board, buttons, and layout.
+1. ***React.js***: For building the dynamic user interface and rendering components.
+2. ***JavaScript***: For managing the state of players, moves, and game logic such as win detection and resetting the game.
+3. ***CSS***: For styling the game board, buttons, and layout.
 
 ***Screenshots***
 ![Screenshot 2024-10-12 121832](https://github.com/user-attachments/assets/0a562ccb-0a9b-4ee3-a477-71d5a6aa5d01)
