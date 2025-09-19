@@ -1,4 +1,4 @@
-# ⭕ Tic Tac Toe Game
+# ⭕ Tic Tac Toe Game ❌
 
 A classic interactive Tic Tac Toe game built with React.js, featuring a clean UI, intelligent game logic, and responsive design for an engaging player experience.
 
@@ -59,7 +59,7 @@ This Tic Tac Toe game is a modern React.js implementation of the timeless strate
 - **CSS Flexbox/Grid** - Modern layout techniques 
 
 
-## Screenshots
+## 📷 Screenshots
 ![Screenshot 2024-10-12 121832](https://github.com/user-attachments/assets/0a562ccb-0a9b-4ee3-a477-71d5a6aa5d01)
 
 ![Screenshot 2024-10-12 122055](https://github.com/user-attachments/assets/a1ac3371-5c72-406b-9b1d-7e31bdc8fbd3)
